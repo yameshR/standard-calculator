@@ -100,7 +100,7 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-
+![img](yamcalc.png)
 
 ## Result:
-
+Successfully the simple calculator design Completed.
